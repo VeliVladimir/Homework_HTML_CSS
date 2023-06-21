@@ -1,0 +1,24 @@
+html{
+    background-color: rgb(32, 30, 30);
+}
+
+.text1{
+    color: rgb(211, 226, 43);
+}
+
+h3{
+    color: rgb(43, 186, 226);
+}
+.text{
+    color: rgb(255, 0, 30);
+}
+
+h2{
+    color: rgb(20, 217, 14);
+}
+.text2{
+    color: brown;
+}
+.img2{
+    border-image-width: 400px;
+}
